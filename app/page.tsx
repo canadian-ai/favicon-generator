@@ -414,6 +414,16 @@ export default function FaviconManager() {
 
       {/* Footer */}
       <footer className="border-t mt-auto">
+        <div className="container mx-auto flex flex-col gap-3 px-4 pt-6 text-sm text-muted-foreground sm:flex-row sm:items-center sm:justify-between">
+          <div className="flex items-center gap-3">
+            <CaiLogo className="size-5 text-foreground" />
+            <div className="flex flex-col">
+              <span>Open source from Canadian AI.</span>
+              <span className="text-xs opacity-80">Built in Montréal by Canadian AI.</span>
+            </div>
+          </div>
+          <a href="https://canadian-ai.ca" target="_blank" rel="noopener noreferrer" className="hover:text-foreground">Canadian AI</a>
+        </div>
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-muted-foreground">
             <div className="flex items-center gap-2">
