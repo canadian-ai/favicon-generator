@@ -133,7 +133,7 @@ npm run test:coverage
 Security issues require special handling:
 
 1. **Do NOT** open public issues for security vulnerabilities
-2. Email security@canadian.ai with details
+2. Email security@canadian-ai.ca with details
 3. See `SECURITY.md` for our security policy
 
 ## Documentation
