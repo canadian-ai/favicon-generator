@@ -2,7 +2,7 @@
   "name": "@canadianai/favicon-manager",
   "version": "1.0.0",
   "description": "Fast, deterministic favicon management for Next.js projects. Add or update favicons via CLI or web UI with automatic PR creation.",
-  "author": "Canadian AI <hello@canadian.ai>",
+  "author": "Canadian AI <hello@canadian-ai.ca>",
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -1,6 +1,6 @@
 # Favicon Manager
 
-> Fast, deterministic favicon management for Next.js projects. Made open source by [Canadian AI](https://canadian.ai).
+> Fast, deterministic favicon management for Next.js projects. Made open source by [Canadian AI](https://canadian-ai.ca).
 
 [![npm version](https://img.shields.io/npm/v/@canadianai/favicon-manager.svg)](https://www.npmjs.com/package/@canadianai/favicon-manager)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -296,7 +296,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## Credits
 
-Made open source by [Canadian AI](https://canadian.ai).
+Made open source by [Canadian AI](https://canadian-ai.ca).
 
 Built with:
 - [Sharp](https://sharp.pixelplumbing.com/) - High-performance image processing
@@ -308,4 +308,4 @@ Built with:
 
 - [Open an issue](https://github.com/canadian-ai/favicon-automation-tool/issues)
 - [Discussions](https://github.com/canadian-ai/favicon-automation-tool/discussions)
-- Email: support@canadian.ai
+- Email: support@canadian-ai.ca
